@@ -1,9 +1,9 @@
 .body{
-    background-color: aliceblue;
-    background: fixed;
-    backdrop-filter: var();
+    background-color: rgb(44, 146, 235);
+    background: none;
+    backdrop-filter: var(.body);
     font: 100;
-    font-weight: 200;
-    font-display: var();
-    font-style: normal;
+    font-weight: 250;
+    font-display: 130;
+    font-style:simple;
 }

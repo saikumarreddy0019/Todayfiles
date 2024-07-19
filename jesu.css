@@ -1,0 +1,9 @@
+.body{
+    background-color: aliceblue;
+    background: fixed;
+    backdrop-filter: var();
+    font: 100;
+    font-weight: 200;
+    font-display: var();
+    font-style: normal;
+}
